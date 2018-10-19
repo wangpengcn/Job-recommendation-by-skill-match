@@ -1,0 +1,174 @@
+company,desc,link,location,salary,title,keywords,similarity
+MasterCard,"Mastercard's Enterprise Security Solutions organization develops and delivers world-class security products and services for customers across the globe. NuData Security predicts fraudulent transactions by identifying good users from bad, based on their online behavior. By analyzing over 38 billion behaviors annually, NuData harnesses the power of behavioral and biometric analysis to empower its clients to predict fraud and verify the user behind the device. This allows clients to predict fraud before a critical decision, reduce customer insult, and investigate bad actors efficiently.
+
+Role
+We are looking for a Data Scientist to join our team in our Vancouver office. This is a key role within the team responsible for researching and developing NuData’s security solutions and you’ll have exciting responsibilities, including:
+
+Designing, building and deploying machine learning models in collaboration with an agile, high-functioning Data Science team.
+Identifying new opportunities in data collection, feature creation, feature selection, model tuning and evaluation workflow, then taking those ideas from first concepts to live product integrations.
+Implementing effective monitoring and benchmarking for models and targeting improvements via thorough analysis of massively parallel model deployments.
+Partner with NuData’s Data Science and Data Engineering teams to identify and drive opportunities, pioneering the algorithms and systems that power our commercial products.
+
+
+
+
+All About You
+Ideally, you’re:
+Experienced in deploying machine learning models to solve real problems and generate competitive edge. You understand good deployment practices and have experience with processes like containerization. Ideally you have successfully developed, deployed, monitored and improved on production models in business contexts.
+A capable coder, able to write well-abstracted, reusable, resilient code in Python, Java or Scala. You’re experienced with web services (e.g. EC2, EMR, ECR, Lambda, Sagemaker, Glue, Kinesis, Redshift), and machine learning tools (e.g. Tensorflow, Keras, MXNet, Gluon).
+Experienced working with cloud environments. You understand the benefits of cloud infrastructure and know how to design an effective machine learning pipeline in AWS or Google Cloud to automate and scale out machine learning workflows. You have the vision to see what the next generation ML infrastructure looks like.
+Familiar with statistical and machine learning concepts. You’re able to inform design discussions and support your teammates via collaborative design, review and recommendations.
+A capable communicator in visual and verbal channels, able to explain decisions or concepts to colleagues and provide clear, actionable recommendations.
+
+It also helps if you are:
+Collaborative. We do our best work as a team, which means sharing, being open to support and giving constructive input.
+Evidence-based. We work to eliminate assumptions and test our hypotheses, and we value rigor.
+Responsible. We offer the opportunity to drive major projects that protect consumers every day, internationally. We are looking for colleagues who care about that.
+Motivated. We’re a team of data scientists with personal and collaborative side projects, and we’re looking for someone who shares our enthusiasm.
+
+
+Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.",https://www.indeed.ca/rc/clk?jk=2b943a97c4257feb&fccid=10b5c722d846df43&vjs=3,"Vancouver,BC",,Data Scientist - NuData Security,"['power', 'tensorflow', 'agile', 'java', 'python', 'mxnet', 'aws', 'keras', 'scala', 'google']",0.42857142857142855
+Nutrien,"Co-op Student, IT Data Services (Data Scientist) - Calgary, AB or Saskatoon, SK
+
+Why work at Nutrien? Great question!
+Safety is a core value at Nutrien. Keeping every employee safe, healthy and secure is our top priority. Nothing is more important than seeing our people go home safe at the end of every single day.
+While working here you will have the opportunity to grow your career while helping us feed the future. We pride ourselves in hiring from a variety of backgrounds and truly believe that it is our differences that make us stronger so we hope you will join us.
+In addition to exciting and challenging opportunities, Nutrien offers competitive salaries, great benefits and performance based incentives.
+Outside of the skills and necessary qualifications, you will be committed to sustaining our safe and positive work environment while welcoming working side by side others in a diverse culture. Culture at Nutrien is the core of everything we do and all employees are respectful of diverse opinions and views.
+Located at our office in Saskatoon or Calgary, Nutrien has an exciting Co-op Student opportunity within IT Data Services. Providing invaluable work experience in a growing company, this position term will begin in early January 2019 or May 2019, for a period of 8-12 months.
+
+The successful candidate will report to the Senior Manager Data Services, IT Data Services.
+
+Key Tasks:
+Apply emerging and advanced data analysis techniques in a real-world setting
+Identify advance analytic model opportunities
+Showcase advanced analytic models using R and Python
+support senior team members to research additional innovative BI opportunities
+Assist with high potential value data identification
+Skills:
+An aptitude and curiosity towards the application of technologies towards better decision making. Strong communication skills, willingness to learn, self-starter, creative
+Strong Microsoft Excel skills
+Statistical modeling, numerical methods and analysis, data mining, knowledge discovery, human computer interaction, interface design, adaptive systems. Some programming/database experience is an asset.
+Experience with R and Python
+Technologies may include: SAP BW, HANA, WebFOCUS, Business Objects, Cognos, Tableau, Oracle, MS SQL Server, MS Power BI, AWS
+Essential Qualifications:
+Progress towards advanced degree in Computer Science, Math, Statistics, Engineering, or other technical advanced degree
+Participation in a structured Co-op program within your College/University
+Minimum GPA of 2.75 is preferred
+Nutrien is committed to creating an inclusive workplace. We encourage applications from all well qualified candidates who reflect the diversity of the regions where we operate. This includes recognizing the voluntary identification of status such as gender, sexual orientation, visible minority, Indigenous status, persons with disabilities, and veterans, where applicable.
+If this sounds like a good match, apply now. This job will remain posted until filled. You may be required to undergo a background check and substance test in accordance with Nutrien policies.
+While we appreciate all applications we receive, we advise that only candidates under consideration will be contacted.",https://www.indeed.ca/rc/clk?jk=636428ec81c29ce0&fccid=2f7563a9ec0a07ec&vjs=3,"Calgary,AB",,"Co-op Student, IT Data Services (Data Scientist)","['power', 'tableau', 'excel', 'python', 'aws', 'r', 'oracle', 'sql']",0.38461538461538464
+Mobify,"Mobify is looking for a Senior Data Engineer to join our team!
+Mobify’s data pipeline processes billions of events every month from web browsers interacting with Progressive Web Apps. It is built on AWS Elastic Beanstalk, Kafka, EMR (using Flink), S3, Luigi and Redshift.
+
+We use the data to help retailers make data-driven decisions using analytics dashboards, provide insights about mobile shopping trends to the community, and improve our products.
+
+As a member of Mobify’s Data Engineering team, you’ll own data driven features from inception to implementation. You’ll champion data quality while working to improve the latency and throughput of our pipeline and reducing maintenance overhead.
+What You'll Do
+Write, test and release the code to power Mobify’s data pipeline
+Observe, maintain, and improve system performance
+Plan, test and implement changes to architecture
+Collaborate in code and design reviews
+Support other engineers and data scientists in furthering their knowledge, and taking on more ownership
+Practice modern data engineering. We’re using Kafka, Flink, S3, Redshift, and Luigi
+Provide insight into product strategy alongside data scientists, engineers, designers, and product managers
+Apply software development best practices from our Developer Values and Coding Style
+Present your work, and learn from others, at our internal Engineering Meetups
+Contribute to a platform that powers billions of pageviews a month!
+Recommending upgrades or optimizations to existing systems
+Who You Are
+You have worked on and operationally maintained a data processing pipeline and its underlying infrastructure, handling large volumes of data, deployed on AWS or another IaaS or PaaS provider
+You have previous experience working with at least one big data technology like Kafka, Flink or Redshift
+You are proficient using Python, Scala or another programming language
+You have advanced skills designing and maintaining database schemas, and writing performant queries with SQL
+You’re a strong communicator who loves to collaborate with a team and customers
+You have a growth mindset and are open and willing to both accept and give feedback",https://www.indeed.ca/rc/clk?jk=79199063508bc204&fccid=b0fba60337a02c72&vjs=3,"Vancouver,BC",,Senior Data Engineer,"['power', 'python', 'aws', 'sql', 'scala']",0.36363636363636365
+Tundra Technical Solutions,"Contract
+BUSINESS INTELLIGENCE ANALYST
+Work Location: downtown Vancouver, BC
+Position Category: 1-year contract
+Our Business Intelligence and Analytics team integrates data and develops modern reporting solutions, provides advanced analytics to all business units across the organization to generate insights and foster innovation.
+As the Business Intelligence Data Analyst in this team, you possess very strong analytical skill and the proven ability to gather, view and analyze all forms of information in details. You will work directly with the business stakeholders. You will have excellent familiarity of data analysis process and systems and outstanding interpersonal skills. Previous experience in Microsoft BI technology such as SQL Server, Power BI and Azure is required. You will identify the business needs and requirements, then process data from multiple sources, and deliver analytical results. You will be a key contributor who enables Aurora to make decisions by turning data into actionable insights.
+We are looking for a highly motivated team player who is always able to deliver on time. Apply if you love data and analytics, are innovative, love to advocate for change and desire to develop strong working relationships with smart people in a new and fast growing international business.
+
+MAIN RESPONSIBILITIES:
+Maintain strong relationships and work closely with stakeholders to ensure business needs are addressed. Collaborate in small groups to gather requirements, translate requirements into analytical project plan.
+Extract and merge data sets from multiple data sources. Perform data cleansing, transformation, exploration, analysis and visualization with Microsoft BI technologies.
+Support day-to-day requests for data analysis such as marketing campaigns, decision support, KPI’s.
+Use advanced techniques, conduct in-depth analytics for strategic initiatives as directed by the management.
+Work side-by-side with the business stakeholders, iterate the analytical work in an agile fashion to deliver insights.
+Participate in the Enterprise Data Warehouse development and other projects as directed by the management.
+Manage multiple project simultaneously while exhibiting professionalism to ensure an incredible stakeholder experience.
+
+
+JOB REQUIREMENTS:
+A university degree or diploma in Statistics, Mathematics or similar disciplines plus 5+ years of work experience in Data Analytics/Business Intelligence.
+Business acumen in the context of the financial industry
+Very strong experience in database systems including data warehouses and multi-dimensional analytic solutions. Very strong experience working with various data types.
+Outstanding skills in Microsoft BI technologies including SQL Server, Power BI, and Azure environment. Excellent SQL skills to write complex queries to pull data.
+Expert level skills in Excel and other MS Office tools.
+Strong Agile project experience with proven ability to prioritize and manage time.
+Demonstrated success with strategic analytical projects, working with various stakeholders across the business areas.
+Demonstrated ability managing deadlines, workload, and multiple complex projects.
+
+
+If you are interested in this job opportunity, please send your resume to Audrey at athorgrimson@tundratechnical.ca. Thanks!",https://www.indeed.ca/rc/clk?jk=cf67382b7734dea5&fccid=ca6562c8f6a697ad&vjs=3,"Vancouver,BC",,BI Analyst,"['power', 'azure', 'agile', 'excel', 'sql']",0.36363636363636365
+G2 PLACEMENTS TI,"$100,000 - $140,000 a year
+Permanent
+Scientifique principal des données (PRINCIPAL DATA SCIENTIST)
+Nous recherchons en direct pour notre client, leader international, un Scientifique Principal des donnéessur Montréal (Québec, Canada) pour un poste permanent.
+Vous réglerez des problèmes analytiques complexes en collaboration avec une équipe mondiale d’experts et d’ingénieurs en technologie.
+Vous devrez acquérir une expérience considérable à travailler avec nos systèmes de données afin d’élaborer des solutions de science des données à la fine pointe ...
+Vos principales tâches :
+Soutien à l’équipe d’analyse : concevoir et améliorer de façon continue des services qui règlent les problèmes opérationnels et guident une prise de décisions améliorée
+Vous utiliserez vos grandes compétences pratiques en codage, dans R, Python ou Scala, pour :
+- Effectuer une analyse exploratoire des ensembles de données afin d’élaborer et de parfaire des hypothèses préliminaires;
+- Effectuer une analyse approfondie des données pour extraire et nettoyer les données de nos systèmes source;
+- Utiliser les statistiques et les méthodes d’initiation à l’apprentissage automatique pour déterminer les principales caractéristiques des données;
+- Concevoir des pipelines de données, à partir des systèmes source, pour des modèles de prédiction;
+- Élaborer des interfaces permettant aux utilisateurs fonctionnels de visualiser l’information;
+- Offrir une expertise sur les concepts statistiques, mathématiques et d’apprentissage automatique, en plus de chercher, de concevoir, de mettre en œuvre et de valider des algorithmes d’avant-garde et des modèles statistiques de prédiction dans le but d’extraire de l’information auprès de diverses sources de données.
+Conditions
+Idéalement, vous posséderez une Maitrise ou un PhD en statistique, en science informatique, en génie électrique ou dans un domaine connexe, combiné à plusieurs années d’expérience acquise dans le cadre de projets de sciences des données, préférablement menés à l’aide de méthodologies flexibles.
+Vous devriez également avoir de l’expérience en lien avec l’un ou la totalité des éléments ci-dessous :
+- Mise en œuvre de projets de science des données, notamment familiarité avec les bibliothèques et les cadres d’apprentissage automatique (p. ex. Scikit Learn, H2O, TensorFlow);
+- Aptitudes analytiques démontrées;
+- Capacité de traduire les données en questions et commentaires significatifs;
+- Expérience en génie logiciel (souhaitable);
+- Expérience avec Cloud (p. ex. AWS ou Azure) (souhaitable);
+- Idéalement bilingue, français et anglais ;
+- Expérience avec les architectures massivement parallèles, notamment l’utilisation de Hadoop ou
+de Spark (souhaitable).
+- Expérience en utilisant les logiciels / systèmes suivants :
+* Expérience avec les bases de données utilisant les langages informatiques: Python (Sci-kit Learn, numpy, pandas, Tensorflow, Keras), R, Matlab, SQL
+* Expérience dans la création et l'utilisation d'algorithmes et de statistiques avancés: régression, classification, simulation, analyse de scénarios, modélisation, regroupement, arbre de décision, PNL, etc.
+* Connaissance et expérience des techniques de statistiques et d'exploration de données: GLM / Régression, Boosting, Analyse de réseau, etc.
+* Expérience de visualisation / présentation de données pour les parties prenantes en utilisant: Matplotlib, ggplot, Seaborn, Bokeh, Plotly, D3, Tableau, etc.
+* Expérience d'utilisation de services Web: S3, Redshift, etc.
+* Expérience avec les outils de données / informatiques distribués: Map / Reduce, Hadoop, Hive, Spark (souhaitable)
+Type d'emploi : Temps Plein, Permanent
+Salaire : 100 000,00$ à 140 000,00$ /année
+Expérience:
+GLM / Régression, Boosting, Analyse de réseau, etc.: 1 an (Souhaitée)
+projets de sciences de données: 5 ans (Requise)
+Création et l'utilisation d'algorithmes et de stat avancés: 1 an (Souhaitée)
+Map / Reduce, Hadoop, Hive, Spark: 1 an (Souhaitée)
+Scikit Learn, H2O, TensorFlow ou équivalent: 3 ans (Souhaitée)
+Matlab: 1 an (Souhaitée)
+génie logiciel: 3 ans (Souhaitée)
+traduction des données: 3 ans (Souhaitée)
+R: 1 an (Souhaitée)
+thon (Sci-kit Learn, numpy, pandas, Tensorflow, Keras): 1 an (Souhaitée)
+Matplotlib, ggplot, Seaborn, Bokeh, Plotly, D3, Tableau, etc: 1 an (Souhaitée)
+Sql: 1 an (Souhaitée)
+services Web: S3, Redshift, etc.: 1 an (Souhaitée)
+Cloud (p. ex. AWS ou Azure): 3 ans (Souhaitée)
+Formation:
+Maîtrise (Souhaitée)
+Lieu:
+Ville-Marie, Montréal (Souhaitée)
+Langue:
+français (Souhaitée)
+anglais (Requise)",https://www.indeed.ca/company/G2-PLACEMENTS-TI/jobs/Scientifique-De-Donn%C3%A9e-Principal-3f79f7b29101ca1f?fccid=a1a3325489f36dcf&vjs=3,"Montréal,QC","$100,000 - $140,000 a year",SCIENTIFIQUE DE DONNÉES PRINCIPAL,"['spark', 'tableau', 'azure', 'tensorflow', 'python', 'scikit', 'aws', 'hive', 'hadoop', 'keras', 'r', 'numpy', 'sql', 'matlab', 'd3', 'pandas', 'scala', 'phd']",0.3333333333333333

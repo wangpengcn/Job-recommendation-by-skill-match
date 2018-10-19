@@ -1,0 +1,153 @@
+company,desc,link,location,salary,title,keywords,similarity
+MasterCard,"Mastercard's Enterprise Security Solutions organization develops and delivers world-class security products and services for customers across the globe. NuData Security predicts fraudulent transactions by identifying good users from bad, based on their online behavior. By analyzing over 38 billion behaviors annually, NuData harnesses the power of behavioral and biometric analysis to empower its clients to predict fraud and verify the user behind the device. This allows clients to predict fraud before a critical decision, reduce customer insult, and investigate bad actors efficiently.
+
+Role
+We are looking for a Data Scientist to join our team in our Vancouver office. This is a key role within the team responsible for researching and developing NuData’s security solutions and you’ll have exciting responsibilities, including:
+
+Designing, building and deploying machine learning models in collaboration with an agile, high-functioning Data Science team.
+Identifying new opportunities in data collection, feature creation, feature selection, model tuning and evaluation workflow, then taking those ideas from first concepts to live product integrations.
+Implementing effective monitoring and benchmarking for models and targeting improvements via thorough analysis of massively parallel model deployments.
+Partner with NuData’s Data Science and Data Engineering teams to identify and drive opportunities, pioneering the algorithms and systems that power our commercial products.
+
+
+
+
+All About You
+Ideally, you’re:
+Experienced in deploying machine learning models to solve real problems and generate competitive edge. You understand good deployment practices and have experience with processes like containerization. Ideally you have successfully developed, deployed, monitored and improved on production models in business contexts.
+A capable coder, able to write well-abstracted, reusable, resilient code in Python, Java or Scala. You’re experienced with web services (e.g. EC2, EMR, ECR, Lambda, Sagemaker, Glue, Kinesis, Redshift), and machine learning tools (e.g. Tensorflow, Keras, MXNet, Gluon).
+Experienced working with cloud environments. You understand the benefits of cloud infrastructure and know how to design an effective machine learning pipeline in AWS or Google Cloud to automate and scale out machine learning workflows. You have the vision to see what the next generation ML infrastructure looks like.
+Familiar with statistical and machine learning concepts. You’re able to inform design discussions and support your teammates via collaborative design, review and recommendations.
+A capable communicator in visual and verbal channels, able to explain decisions or concepts to colleagues and provide clear, actionable recommendations.
+
+It also helps if you are:
+Collaborative. We do our best work as a team, which means sharing, being open to support and giving constructive input.
+Evidence-based. We work to eliminate assumptions and test our hypotheses, and we value rigor.
+Responsible. We offer the opportunity to drive major projects that protect consumers every day, internationally. We are looking for colleagues who care about that.
+Motivated. We’re a team of data scientists with personal and collaborative side projects, and we’re looking for someone who shares our enthusiasm.
+
+
+Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.",https://www.indeed.ca/rc/clk?jk=2b943a97c4257feb&fccid=10b5c722d846df43&vjs=3,"Vancouver,BC",,Data Scientist - NuData Security,"['power', 'python', 'mxnet', 'agile', 'scala', 'keras', 'java', 'google', 'tensorflow', 'aws']",0.42857142857142855
+Tundra Technical Solutions,"Contract
+BUSINESS INTELLIGENCE ANALYST
+Work Location: downtown Vancouver, BC
+Position Category: 1-year contract
+Our Business Intelligence and Analytics team integrates data and develops modern reporting solutions, provides advanced analytics to all business units across the organization to generate insights and foster innovation.
+As the Business Intelligence Data Analyst in this team, you possess very strong analytical skill and the proven ability to gather, view and analyze all forms of information in details. You will work directly with the business stakeholders. You will have excellent familiarity of data analysis process and systems and outstanding interpersonal skills. Previous experience in Microsoft BI technology such as SQL Server, Power BI and Azure is required. You will identify the business needs and requirements, then process data from multiple sources, and deliver analytical results. You will be a key contributor who enables Aurora to make decisions by turning data into actionable insights.
+We are looking for a highly motivated team player who is always able to deliver on time. Apply if you love data and analytics, are innovative, love to advocate for change and desire to develop strong working relationships with smart people in a new and fast growing international business.
+
+MAIN RESPONSIBILITIES:
+Maintain strong relationships and work closely with stakeholders to ensure business needs are addressed. Collaborate in small groups to gather requirements, translate requirements into analytical project plan.
+Extract and merge data sets from multiple data sources. Perform data cleansing, transformation, exploration, analysis and visualization with Microsoft BI technologies.
+Support day-to-day requests for data analysis such as marketing campaigns, decision support, KPI’s.
+Use advanced techniques, conduct in-depth analytics for strategic initiatives as directed by the management.
+Work side-by-side with the business stakeholders, iterate the analytical work in an agile fashion to deliver insights.
+Participate in the Enterprise Data Warehouse development and other projects as directed by the management.
+Manage multiple project simultaneously while exhibiting professionalism to ensure an incredible stakeholder experience.
+
+
+JOB REQUIREMENTS:
+A university degree or diploma in Statistics, Mathematics or similar disciplines plus 5+ years of work experience in Data Analytics/Business Intelligence.
+Business acumen in the context of the financial industry
+Very strong experience in database systems including data warehouses and multi-dimensional analytic solutions. Very strong experience working with various data types.
+Outstanding skills in Microsoft BI technologies including SQL Server, Power BI, and Azure environment. Excellent SQL skills to write complex queries to pull data.
+Expert level skills in Excel and other MS Office tools.
+Strong Agile project experience with proven ability to prioritize and manage time.
+Demonstrated success with strategic analytical projects, working with various stakeholders across the business areas.
+Demonstrated ability managing deadlines, workload, and multiple complex projects.
+
+
+If you are interested in this job opportunity, please send your resume to Audrey at athorgrimson@tundratechnical.ca. Thanks!",https://www.indeed.ca/rc/clk?jk=cf67382b7734dea5&fccid=ca6562c8f6a697ad&vjs=3,"Vancouver,BC",,BI Analyst,"['power', 'azure', 'agile', 'excel', 'sql']",0.36363636363636365
+Mobify,"Mobify is looking for a Senior Data Engineer to join our team!
+Mobify’s data pipeline processes billions of events every month from web browsers interacting with Progressive Web Apps. It is built on AWS Elastic Beanstalk, Kafka, EMR (using Flink), S3, Luigi and Redshift.
+
+We use the data to help retailers make data-driven decisions using analytics dashboards, provide insights about mobile shopping trends to the community, and improve our products.
+
+As a member of Mobify’s Data Engineering team, you’ll own data driven features from inception to implementation. You’ll champion data quality while working to improve the latency and throughput of our pipeline and reducing maintenance overhead.
+What You'll Do
+Write, test and release the code to power Mobify’s data pipeline
+Observe, maintain, and improve system performance
+Plan, test and implement changes to architecture
+Collaborate in code and design reviews
+Support other engineers and data scientists in furthering their knowledge, and taking on more ownership
+Practice modern data engineering. We’re using Kafka, Flink, S3, Redshift, and Luigi
+Provide insight into product strategy alongside data scientists, engineers, designers, and product managers
+Apply software development best practices from our Developer Values and Coding Style
+Present your work, and learn from others, at our internal Engineering Meetups
+Contribute to a platform that powers billions of pageviews a month!
+Recommending upgrades or optimizations to existing systems
+Who You Are
+You have worked on and operationally maintained a data processing pipeline and its underlying infrastructure, handling large volumes of data, deployed on AWS or another IaaS or PaaS provider
+You have previous experience working with at least one big data technology like Kafka, Flink or Redshift
+You are proficient using Python, Scala or another programming language
+You have advanced skills designing and maintaining database schemas, and writing performant queries with SQL
+You’re a strong communicator who loves to collaborate with a team and customers
+You have a growth mindset and are open and willing to both accept and give feedback",https://www.indeed.ca/rc/clk?jk=79199063508bc204&fccid=b0fba60337a02c72&vjs=3,"Vancouver,BC",,Senior Data Engineer,"['power', 'python', 'scala', 'sql', 'aws']",0.36363636363636365
+Finning International Inc.,"At Finning Digital, we’re connecting customers, equipment, operators and data to create new value, both for Finning and for our customers – and revolutionizing an industry.
+
+This is your opportunity to make a unique and measurable impact on a transforming business.
+Background
+
+We are grounded in the strength and legacy of Finning – and incubating a new and entrepreneurial business. You will be part of the start-up leadership team shaping the opportunity and executing together. If you crave the excitement of breaking new ground and growing a business, while appreciating the strength of a solid foundation and brand, you’ll fit right in. Finning is the world’s largest Cat® dealer, delivering unrivalled service to customers in mining, construction, power systems and forestry for over 80 years. We’re proud of our legacy of providing the products and services that fuel our customers’ businesses and drive our business economies.
+
+We’re also innovators, and in Finning Digital we see a powerful opportunity. The business case is clear. Digital technologies, data and analytics can be harnessed to bring new solutions to the heavy equipment business – a sector where we see the perfect combination of large investments in equipment with limited introduction and adoption of technologies that can drive significant
+additional ROI.
+
+As a Sr. Data Scientist, you’ll be focused on solving real world business challenges and optimizing our business performance across a wide range of areas from supply chain, pricing, and sales, and offering advanced analytical solutions for maintenance program optimization, inventory optimization, fuel optimization, scheduling optimization, amongst others to Finning customers. You’ll rely on your background and love for Statistics, Modelling, Machine Learning, and Optimization for rapid problem solving, developing and/or hacking POC solutions to test the validity of models and concepts, validation and verification of results, and working with data architects and data engineers to build end-to-end data processing pipelines.
+
+In this business facing role, you’ll need not only excellent communication skills, but the ability to translate complex concepts into more digestible terms, you’ll be managing stakeholder expectations during this process and helping to evangelise the power of data driven decisions. As a senior member of the team, you’ll also be asked to mentor other team members and co-ops, across technology and coding, algorithm selection and business acumen, keeping everyone focused on the business. You’ll also work in collaboration with other members on the Finning Digital teams, including Project Managers, Product Managers, Visual Analysts, Architects, Software and Data Engineers and more as we continue to explore new areas inside and outside of business, on our digital journey.
+
+Job Description:
+What You'll Do:
+Work with the business and non-technical stakeholders to discover and document Problem Formulation through gathering requirements and understanding the core problem
+Help leadership with prioritization of backlog of projects based on impact, importance and resourcing
+Communicate and ‘translate’ quantitative findings (storytelling with data), make meaningful conclusions and recommendations, identify and interpret trends and relationships to product and business stakeholders
+Identify requirements and build forecasting methodology and tools that are statistically grounded but also explainable operationally, applying technical skills that allowing models to intelligently adapt to changing attributes, include demand patterns or technology capability
+Develop new statistical methodology that can be used to cluster, classify and predict business outcomes. This includes methods to optimize inventory prediction accuracy and to better understand and mitigate model variance drivers.
+Research machine learning algorithms and implement by tailoring to particular business needs and tested on large datasets and communicating your findings in public research settings
+Create automated metrics using complex databases
+Providing analytical network support to improve quality and standard work result
+You drive the continually improvement of ongoing reporting and analysis processes, automating and/or simplifying self-service support
+Present to and influence senior management at both strategic and tactical levels while also proposing best in class technical and architecture solutions
+Actively solicit and accept design feedback from cross functional teams across a variety of high visibility projects
+Stay abreast of innovations in Cloud infrastructure, Business Intelligence, Analytics and Data Warehouse tools and technologies
+
+Who You Are:
+PhD or Masters graduate in Statistics, Mathematics, Computer Science, or other technical field from an accredited university
+3-5 years’ of post education experience in engineering, data science, analytics or modern business intelligence experience with an emphasis on enterprise digital/customer analytics
+Experience with statistical analysis, regression modeling and forecasting, time series analysis, data mining, financial analysis, and demand modelling
+Exceptional communicator, collaborator, and influencer, and enjoy working with non-technical business stakeholders
+Experience in Statistical Software such as R, Alteryx, SAS, SPSS, Azure ML
+Proficiency with TABLEAU, Microsoft Excel to include making charts, data manipulation, pivot tables, creating macros, and visual basic knowledge
+Able to write SQL scripts for analysis and reporting (SQL, MySQL)
+Experience processing, filtering, and presenting large quantities (100K to Millions of rows) of data
+Comfortable balancing multiple projects and priorities in a highly dynamic, rapidly growing and evolving environment.
+You participate in MeetUps, Product Camps, and other local industry activities as a Brand Ambassador
+You have a great sense of humour – we work extremely hard, and have fun doing it!
+You are a Swiss army knife with a wide range of skills and do what it takes to get the job done! You are resourceful, persistent, and constantly innovative!
+Experience using one or more Python, VBA, MATLAB, Java, C++ programming languages is nice to have
+
+
+We are committed to diversity at Finning, to building and sustaining a diverse and inclusive workforce and as an equal opportunity employer we encourage applications from all qualified individuals. Finning does not discriminate against applicants based on genders, races, national and ethnic origins, religions, ages, sexual orientation, marital and family status, and/or mental or physical disabilities.",https://www.indeed.ca/rc/clk?jk=e4d37b521d4e4f91&fccid=641199101caf07fe&vjs=3,"Vancouver,BC",,Senior Data Scientist,"['power', 'mysql', 'java', 'python', 'azure', 'tableau', 'spss', 'phd', 'matlab', 'c++', 'sql', 'sas', 'excel', 'r']",0.3333333333333333
+Keywords Studios,"The Data Analyst will play a key role in analyzing operational data to improve Quality Verification strategies. You should be a sharp, curious, and analytic individual who has a passion for diving into data to solve business problems. Your insights will influence how we build and verify the quality of ours games
+
+Requirements:
+Requirements
+Education, knowledge or analytical experience
+Computer Science, Statistics, Engineering, Mathematics, Operations Research, etc.)
+Visual aptitude for displaying results in a meaningful matter
+Understanding of a programming language (R, PHP, or Python)
+Strong data visualization techniques for building dashboards, charts, and reports
+Ability to present results to clients in clear and concise manner
+Self-motivated and self-driven, with demonstrated ability to learn new concepts quickly and independently
+Knowledge of how to analyze data – ideally with some background in math and statistics
+Some MS Office exp. (Excel, Word, Outlook, etc.)
+Including VBA, PivotTables, and array functions
+Power BI and/or Tableau experience a bonus
+Good working knowledge of SQL queries for data retrieval
+Capability to understand and present data in a visual way with knowledge of tools for reporting – includes understanding metrics and KPIs
+Work well in a team and communicate with various levels of the organization
+Daily/weekly tasks
+Receives questions from internal customers, understands the questions, and determines the data needed to answer them with supervision & support Manage assigned work using project tools and working with the leadership team Imports, transforms and cleanses data from a variety of sources Defines data model for cleaned data to create highly structured, reproducible and analyzable data sets Provide data visualization by building dashboards, charts, and reports that do not require manual updates Perform quality assurance on generated results to ensure accuracy and consistency Builds strong relationships across the data analyst community, to share knowledge and learn from others",https://www.indeed.ca/rc/clk?jk=768d11c7af0fab9d&fccid=c26d104f25f1364f&vjs=3,"Vancouver,BC",,Data Analyst (Player Information Network),"['python', 'power', 'tableau', 'excel', 'php', 'sql', 'r']",0.3076923076923077
