@@ -14,6 +14,7 @@ import pandas as pd
 import PyPDF2
 import config
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 # The following data science skill sets are modified from 
 # https://github.com/yuanyuanshi/Data_Skills/blob/master/data_skills_1.py
@@ -95,6 +96,15 @@ class skill_keyword_match:
         plt.title('Percentage of Required Data Skills in Data Scientist/Engineer/Analyst Job Posts')
         plt.ylabel('Percentage Required in Jobs (%)')
         plt.xticks(rotation=30)
+        plt.show()
+        
+        # Plot word cloud
+        all_keywords_str = self.jobs_info_df['keywords'].apply(' '.join).str.cat(sep=' ')        
+        # lower max_font_size, change the maximum number of word and lighten the background:
+        wordcloud = WordCloud(background_color="white").generate(all_keywords_str)
+        plt.figure()
+        plt.imshow(wordcloud, interpolation="bilinear")
+        plt.axis("off")
         plt.show()
          
         # Let's look up education requirements
